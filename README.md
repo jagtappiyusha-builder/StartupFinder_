@@ -1,4 +1,4 @@
-# StartupFinder_ : VC Scout Dashboard
+# StartupFinder_ : VC Scout Dashboard (Dated: 26Feb2026)
 Built this in a 1-day buildathon, an idea that came out of a conversation with a friend in the VC ecosystem, made it a perfect idea to try with Claude code. 
 
 It’s a signal-driven dashboard to help early-stage VCs discover startups, analyze early traction, and spot where the next wave of early-stage deals is forming.
